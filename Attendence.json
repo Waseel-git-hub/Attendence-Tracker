@@ -1,0 +1,134 @@
+{
+    "EGPC": {
+        "_meta": {
+            "Faculty": "Bhoomika",
+            "Min_Attend": 0.75
+        },
+        "Attendence": {
+            "2026-02-06": {
+                "1956_EGP_20260206_2056": {
+                    "Start": "19:56",
+                    "End": "20:56",
+                    "Room": "",
+                    "Present": true,
+                    "Type": "Normal",
+                    "Extra": true
+                }
+            },
+            "2026-02-08": {
+                "0115_EGP_20260208_0215": {
+                    "Start": "01:15",
+                    "End": "02:15",
+                    "Room": "",
+                    "Present": true,
+                    "Type": "Normal",
+                    "Extra": true
+                },
+                "2249_EGP_20260208_2349": {
+                    "Start": "22:49",
+                    "End": "23:49",
+                    "Room": "",
+                    "Present": false,
+                    "Type": "Normal",
+                    "Extra": true
+                }
+            },
+            "2026-02-17": {
+                "0033_EGP_20260217_0133": {
+                    "Start": "00:33",
+                    "End": "01:33",
+                    "Room": "",
+                    "Present": null,
+                    "Type": "Normal",
+                    "Extra": true
+                }
+            }
+        },
+        "2026-01-05": {
+            "0115_EGP_20260105_0215": {
+                "Start": "01:15",
+                "End": "02:15",
+                "Room": "",
+                "Present": null,
+                "Type": "Normal",
+                "Extra": false
+            }
+        },
+        "2026-01-12": {
+            "0115_EGP_20260112_0215": {
+                "Start": "01:15",
+                "End": "02:15",
+                "Room": "",
+                "Present": null,
+                "Type": "Normal",
+                "Extra": false
+            }
+        },
+        "2026-01-19": {
+            "0115_EGP_20260119_0215": {
+                "Start": "01:15",
+                "End": "02:15",
+                "Room": "",
+                "Present": null,
+                "Type": "Normal",
+                "Extra": false
+            }
+        },
+        "2026-01-26": {
+            "0115_EGP_20260126_0215": {
+                "Start": "01:15",
+                "End": "02:15",
+                "Room": "",
+                "Present": null,
+                "Type": "Normal",
+                "Extra": false
+            }
+        },
+        "2026-02-02": {
+            "0115_EGP_20260202_0215": {
+                "Start": "01:15",
+                "End": "02:15",
+                "Room": "",
+                "Present": null,
+                "Type": "Normal",
+                "Extra": false
+            }
+        },
+        "2026-02-09": {
+            "0115_EGP_20260209_0215": {
+                "Start": "01:15",
+                "End": "02:15",
+                "Room": "",
+                "Present": null,
+                "Type": "Normal",
+                "Extra": false
+            }
+        },
+        "2026-02-16": {
+            "0115_EGP_20260216_0215": {
+                "Start": "01:15",
+                "End": "02:15",
+                "Room": "",
+                "Present": null,
+                "Type": "Normal",
+                "Extra": false
+            }
+        },
+        "2026-02-23": {
+            "0115_EGP_20260223_0215": {
+                "Start": "01:15",
+                "End": "02:15",
+                "Room": "",
+                "Present": null,
+                "Type": "Normal",
+                "Extra": false
+            }
+        }
+    },
+    "Maths ": {
+        "_meta": {
+            "Faculty": "",
+            "Min_Attend": 75
+        }
+    }
+}

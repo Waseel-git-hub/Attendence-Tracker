@@ -1,0 +1,25 @@
+{
+    "Sem-1": {
+        "2026-01-01_to_2026-03-01": {
+            "Holidays": {
+                "2026-02-17": "Red"
+            },
+            "Weekly": {
+                "Monday": [
+                    {
+                        "Subject": "EGPC",
+                        "Start": "01:15",
+                        "End": "02:15",
+                        "Room": ""
+                    }
+                ],
+                "Tuesday": [],
+                "Wednesday": [],
+                "Thursday": [],
+                "Friday": [],
+                "Saturday": [],
+                "Sunday": []
+            }
+        }
+    }
+}
